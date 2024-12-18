@@ -66,5 +66,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeep8250&" alt="deeep8250" />
+
 </p>
